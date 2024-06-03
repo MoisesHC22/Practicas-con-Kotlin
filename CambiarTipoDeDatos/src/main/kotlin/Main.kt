@@ -5,6 +5,6 @@ package org.example
 fun main() {
   // casteo o parseo
   var sueldo = "2200.00"
-  
+
     println("Transformando el dato: ${sueldo.toDouble()}")
 }
